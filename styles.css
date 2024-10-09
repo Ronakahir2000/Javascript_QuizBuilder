@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.question {
+    margin-bottom: 15px;
+    background-color: #89fbfb30;
+    padding: 10px;
+}
+
+.quiz-styles {
+    padding: 10px 5px;
+}
+
+.quiz-styles h1{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0;
+}
+
+.quiz-styles p{
+    color: black;
+    font-size: 20px;
+    padding: 0 5px;
+}
+
+.quiz .quiz-button{
+    margin-bottom: 20px;
+    background-color: #00ffff4a;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+}
+
+
+button {
+    margin-top: 20px;
+}
